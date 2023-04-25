@@ -1,1 +1,3 @@
-# Angela-Yu-Web-Development-Bootcamp-Capstone-Project-1-HTML-Portfolio
+# Capstone Project 1 - Online Resume
+
+This capstone project is part of Angela Yu Web Development Bootcamp
